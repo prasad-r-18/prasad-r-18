@@ -145,14 +145,13 @@ A backend-driven application for managing products, inventory and suppliers.
 
 ## CURRENT FOCUS
 
-~~~
+```text
 [01] Strengthening software engineering fundamentals
 [02] Building practical full-stack applications
-[03] Improving problem-solving skills
-[04] Exploring AI-assisted software development
-[05] Working with APIs, databases and backend systems
-[06] Learning through hands-on implementation
-~~~
+[03] Working with APIs, databases and backend systems
+[04] Exploring AI-assisted application development
+[05] Improving debugging and problem-solving skills
+[06] Learning through hands-on projects
 
 ---
 
