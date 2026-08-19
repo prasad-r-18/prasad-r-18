@@ -36,13 +36,13 @@ workflow    → Build → Test → Debug → Improve
 
 `Node.js` `Express` `FastAPI` `Flask`
 
-### Databases
+### Databases & Data
 
 `SQL` `MongoDB` `SQLAlchemy`
 
 ### AI & Data
 
-`LangGraph` `Groq` `Gemini API` `OpenCV`
+`LangGraph` `Gemini API` `Groq` `OpenCV`
 
 ### Tools
 
