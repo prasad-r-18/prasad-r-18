@@ -85,19 +85,19 @@ A full-stack complaint management application with an AI processing layer.
 
 ---
 
-### 03 — AI Business Intelligence Agent
+### 03 — AI-Powered Business Intelligence Assistant
 
-**React · Vite · Node.js · Express · Gemini API · GraphQL**
+**React · Vite · Node.js · Express · Axios · Gemini 2.5 Flash · GraphQL**
 
-A full-stack business intelligence assistant designed for AI-assisted data analysis and reporting.
+A full-stack AI-assisted business intelligence application designed to turn business data and platform information into useful analysis and reports.
 
 - Built the frontend using React and Vite.
 - Developed backend services using Node.js and Express.
-- Integrated REST APIs using Axios.
-- Integrated Gemini API for AI-assisted analysis.
-- Used GraphQL-based data APIs for business data access.
-- Designed the application around interactive data analysis and reporting workflows.
-
+- Integrated APIs using Axios.
+- Connected with business data through the monday.com GraphQL API.
+- Integrated Gemini 2.5 Flash for AI-assisted analysis and reporting.
+- Designed workflows for querying data and generating useful business insights.
+- Focused on combining API integration, backend processing and AI-assisted responses into a practical application.
 ---
 
 ### 04 — Face Recognition Attendance System
